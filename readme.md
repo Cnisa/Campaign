@@ -1,4 +1,4 @@
-# UI Automation with Cypress For Kita Bisa
+# UI Automation with Cypress
 ## Requirements
 - [Node.js](https://nodejs.org/en/download/)
 
